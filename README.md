@@ -1,4 +1,4 @@
-## NodeJS Chat (MIT License)
+## NodeJS Chat
 
 A node js chat app using web sockets (socket.io)
 
@@ -6,7 +6,7 @@ A node js chat app using web sockets (socket.io)
 
 Install all the dependencies:
 
-    npm install (you may need to prefix this with sudo if you're on Mac)
+    npm install
 
 Run the app:
 
@@ -20,7 +20,7 @@ every time you save.
 
 Then navigate to `http://localhost:3000`
 
-Start up two browsers and start role playing. Keep it PG 13 though.
+Start up two browsers and start connecting!
 
 ## Signing up, and deploying to Heroku
 
